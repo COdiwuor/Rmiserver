@@ -1,2 +1,2 @@
-# rmiserver
+# Rmiserver
 A simple RMI server
